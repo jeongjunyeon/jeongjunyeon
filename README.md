@@ -32,6 +32,8 @@
 + 한 권으로 읽는 컴퓨터 구조와 프로그래밍, 코드 없는 알고리즘과 데이터 구조 (책 학습)
 ...
  
+ 
+ - contact: joon1157@naver.com
 
 <!---
 jeongjunyeon/jeongjunyeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
